@@ -89,4 +89,3 @@
 <br>
 
 ## 발표 영상
-[![Video Label](http://img.youtube.com/vi/xxAZ1-xFDMU/0.jpg)](https://youtu.be/xxAZ1-xFDMU)
