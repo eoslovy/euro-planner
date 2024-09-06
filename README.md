@@ -85,7 +85,7 @@
 
 # 📹 포로젝트 관련 자료(클릭시 이동)
 ## 기획
-### [Umanda 기획안](https://github.com/euics/Capstone_Umanda/files/13197577/default.pdf)
+### [Umanda 기획안]
 <br>
 
 ## 발표 영상
